@@ -2,7 +2,7 @@
 
 ### Genereate Client Secret 
 
-```swift
+```jsx
 const jwt = require("jsonwebtoken");
 const fs = require("fs");
 
